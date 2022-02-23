@@ -1,2 +1,2 @@
 # hangman
-Hangman game based on World
+Hangman game based on Wordle
